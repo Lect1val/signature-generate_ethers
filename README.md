@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+essentail command:
+
+`npm install --save-dev nodemon`
+`npm i ts-node`
+`npm start`
+
 In the project directory, you can run:
 
 ### `npm start`
